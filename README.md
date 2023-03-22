@@ -6,4 +6,6 @@ Some Description!
 
 Hello World
 
-GitHub_Forever
+## Local Development
+
+1. Open index.html in your browser.
